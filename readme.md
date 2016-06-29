@@ -15,3 +15,5 @@ This is a repository to collect and share my favorite frontend bookmarks/links.
 
 * [CSS-Tricks]()
 
+* [Smashing Magazine]()
+
